@@ -304,12 +304,16 @@ footer{
   color:#fff;
   padding-top:20px;
   
+  .container{
+    margin:0 auto;
+  }
+  
   @media(max-width:550px){
     
     .container{
-      margin:0;
+      margin: 0 auto;
       padding:0;
-      margin:0 auto;
+
     }
     
     .sp{
